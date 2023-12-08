@@ -1,29 +1,29 @@
 
-- parler: (konuşmak) Je parle français. (Fransızca konuşuyorum.)
-- être: (olmak) Tu es mon ami. (Sen benim arkadaşımısın.)
-- avoir: (sahip olmak) Il a un chat. (O, bir kediye sahip.)
-- aller: (gitmek) Nous allons au cinéma. (Sinemaya gidiyoruz.)
-- faire: (yapmak) Elle fait ses devoirs. (O, ödevlerini yapıyor.)
-- prendre: (almak) Ils prennent le train. (Treni alıyorlar.)
-- pouvoir: (yapabilmek) Je peux nager. (Yüzebilirim.)
-- vouloir: (istemek) Tu veux un café? (Kahve ister misin?)
-- devoir: (zorunda olmak) Il doit partir. (Gitmek zorunda.)
-- savoir: (bilmek) Elle sait la réponse. (Cevabı biliyor.)
-- venir: (gelmek) Nous venons de Paris. (Paris'ten geliyoruz.)
-- voir: (görmek) Ils voient la mer. (Denizi görüyorlar.)
-- aimer: (sevmek) J'aime les chats. (Kedileri seviyorum.)
-- trouver: (bulmak) Tu trouves la clé. (Anahtarı buluyorsun.)
-- donner: (vermek) Elle donne un cadeau. (Hediye veriyor.)
-- penser: (düşünmek) Je pense que tu as raison. (Doğru olduğunu düşünüyorum.)
-- aller: (gitmek) Vous allez à la plage. (Plaja gidiyorsunuz.)
-- savoir: (bilmek) Nous savons la vérité. (Gerçeği biliyoruz.)
-- venir: (gelmek) Ils viennent de l'école. (Okuldan geliyorlar.)
-- voir: (görmek) Elle voit un film. (Film izliyor.)
-- prendre: (almak) Tu prends le bus. (Otobüse biniyorsun.)
-- savoir: (bilmek) Ils savent la réponse. (Cevabı biliyorlar.)
-- aller: (gitmek) Elle va à la maison. (Eve gidiyor.)
-- faire: (yapmak) Nous faisons du sport. (Spor yapıyoruz.)
-- savoir: (bilmek) Tu sais la réponse. (Cevabı biliyorsun.)
-- pouvoir: (yapabilmek) Il peut jouer de la guitare. (Gitar çalabilir.)
-- devoir: (zorunda olmak) Elle doit travailler. (Çalışmak zorunda.)
+- **parler**: (to speak) Je parle français. (I speak French.) ¹
+- **être**: (to be) Tu es mon ami. (You are my friend.) ¹
+- **avoir**: (to have) Il a un chat. (He has a cat.) ¹
+- **aller**: (to go) Nous allons au cinéma. (We are going to the cinema.) ¹
+- **faire**: (to do) Elle fait ses devoirs. (She is doing her homework.) ¹
+- **prendre**: (to take) Ils prennent le train. (They are taking the train.) ¹
+- **pouvoir**: (to be able to) Je peux nager. (I can swim.) ¹
+- **vouloir**: (to want) Tu veux un café? (Do you want a coffee?) ¹
+- **devoir**: (to have to) Il doit partir. (He has to leave.) ¹
+- **savoir**: (to know) Elle sait la réponse. (She knows the answer.) ¹
+- **venir**: (to come) Nous venons de Paris. (We are coming from Paris.) ¹
+- **voir**: (to see) Ils voient la mer. (They see the sea.) ¹
+- **aimer**: (to like) J'aime les chats. (I like cats.) ¹
+- **trouver**: (to find) Tu trouves la clé. (You find the key.) ¹
+- **donner**: (to give) Elle donne un cadeau. (She gives a gift.) ¹
+- **penser**: (to think) Je pense que tu as raison. (I think you are right.) ¹
+- **aller**: (to go) Vous allez à la plage. (You are going to the beach.) ¹
+- **savoir**: (to know) Nous savons la vérité. (We know the truth.) ¹
+- **venir**: (to come) Ils viennent de l'école. (They are coming from school.) ¹
+- **voir**: (to see) Elle voit un film. (She sees a movie.) ¹
+- **prendre**: (to take) Tu prends le bus. (You take the bus.) ¹
+- **savoir**: (to know) Ils savent la réponse. (They know the answer.) ¹
+- **aller**: (to go) Elle va à la maison. (She is going home.) ¹
+- **faire**: (to do) Nous faisons du sport. (We are doing sports.) ¹
+- **savoir**: (to know) Tu sais la réponse. (You know the answer.) ¹
+- **pouvoir**: (to be able to) Il peut jouer de la guitare. (He can play the guitar.) ¹
+- **devoir**: (to have to) Elle doit travailler. (She has to work.) ¹
 
