@@ -15,7 +15,7 @@ Below, you can see some of my errors and I fixed them, added the correct version
 
 - s
 - s
-- -
+- 
 - ons
 - ez
 - ent
@@ -37,6 +37,8 @@ Below, you can see some of my errors and I fixed them, added the correct version
 - issons
 - issez
 - issent
+
+--
 
 ## Le Futur 🚀
 
