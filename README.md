@@ -7,10 +7,24 @@
 ## 1. Vocabulary 💬
 
 ### Verbs 📝
+![French Verbs and their Conjugations](https://github.com/eylulucar/French/assets/47148095/b26640b0-aac3-4c27-bf70-3cf718eff9be)
 
 ### Nouns 📚
-
+![🍎  la pomme](https://github.com/eylulucar/French/assets/47148095/4d8bd4b2-4542-41ff-9945-137e13b78feb)
 ### Adjectives 🎨
+- 😊 Eylül tu es un individu intelligent, ambitieux et **travailleur.** 😊
+
+![çalışkan-travailieur](https://github.com/eylulucar/French/assets/47148095/a9dd309d-3ad9-4eb5-8d79-f2509ce858d9)
+  
+             
+  ````
+                        travailleur 
+                             |
+              ---------------------------------
+             |               |                |
+        dévoué             assidu           infatigable
+      (dedicated)        (diligent)        (tireless)
+  ````
 
 ### Example Sentences 📝
 
