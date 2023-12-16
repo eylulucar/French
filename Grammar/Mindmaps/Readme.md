@@ -7,6 +7,17 @@ Below, you can see some of my errors and I fixed them, added the correct version
 
 - **It is pretty normal to make errors while learning new skills and I see errors as learning aids and welcome them as opportunities.**
 
+- I use these websites to learn and practise French verb conjugations.</br>
+- I recommend you should also try these websites:</br>
+ _**Reliable websites for French verb conjugations:**_
+
+__Reverso Conjugator__</br>
+__Lingolia__</br>
+__Le Conjugueur__</br>
+__Linguasorb__</br>
+
+![French Tenses](https://github.com/eylulucar/French/assets/47148095/dfd68a58-96fc-4fba-90d2-c81ab1e67b38)
+
 # French Tenses 📚
 
 ## Present 🎁
