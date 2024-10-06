@@ -27,6 +27,7 @@
              |               |                |
         dévoué             assidu           infatigable
       (dedicated)        (diligent)        (tireless)
+
   ````
 
 ### Example Sentences 📝
