@@ -44,7 +44,7 @@
 
 
 ### Pronunciation 🔊
- **🔨 in progress**. 🚧  </br> 
+ **🔨 In progress**. 🚧  </br> 
  ````I'll add my study notes as I learn. But for now, it is too early to share about Pronunciation while I am a beginner level learner of French.````
 
 ### Grammar 📖
